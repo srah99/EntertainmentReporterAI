@@ -1,0 +1,3 @@
+Flask
+musicbrainzngs
+python-dotenv
